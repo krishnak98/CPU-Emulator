@@ -7,7 +7,11 @@ To run:
     ./cache-sim
 
 Flags: 
+
 -c : cache size in bytes
+
 -b : size of data block
+
 -n : n-way associativity of cache
+
 -r : replacement policy
